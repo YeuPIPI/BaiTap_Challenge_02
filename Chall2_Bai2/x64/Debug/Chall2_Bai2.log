@@ -1,0 +1,4 @@
+﻿  Chall2_Bai2.cpp
+C:\Users\duyhu\source\repos\Chall2_Bai2\Chall2_Bai2\Chall2_Bai2.cpp(45,22): warning C4244: '+=': conversion from 'SIZE_T' to 'unsigned long', possible loss of data
+C:\Users\duyhu\source\repos\Chall2_Bai2\Chall2_Bai2\Chall2_Bai2.cpp(84,22): warning C4244: '+=': conversion from 'SIZE_T' to 'unsigned long', possible loss of data
+  Chall2_Bai2.vcxproj -> C:\Users\duyhu\source\repos\Chall2_Bai2\x64\Debug\Chall2_Bai2.exe
